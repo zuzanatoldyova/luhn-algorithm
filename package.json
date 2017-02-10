@@ -1,0 +1,26 @@
+{
+  "name": "luhn-algoritm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "luhn-numbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuzanatoldyova/luhn-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuzanatoldyova/luhn-algorithm/issues"
+  },
+  "homepage": "https://github.com/zuzanatoldyova/luhn-algorithm#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
